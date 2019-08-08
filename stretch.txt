@@ -1,0 +1,17 @@
+git reset is when you use the gitbash  to modify uncommited files. 
+
+default = returns the commited changes 
+and stores the uncommited to a unstaged
+state
+
+hard = returns everything commited and deletes 
+uncommited changes. 
+
+
+git revert is when git makes a new commit 
+out of the previous commit changes
+
+git clean will delete untracked files
+(files that have not been added 
+with the command : git add )
+
